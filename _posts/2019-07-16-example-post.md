@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Danilo Pereira
+title: Example - First Post
 date: 2018-07-16
 ---
 

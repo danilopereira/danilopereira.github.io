@@ -1,2 +1,4 @@
 name: Danilo Pereira
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
